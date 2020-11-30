@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.080645">
+<testcase classname="This is to test cucmber" name="Cucumber testing" time="0.080078">
+<system-out><![CDATA[Given thisi is back test....................................................passed
+Given users is on google.com................................................passed
+When usesr enters serach term...............................................passed
+And Users hits enter........................................................passed
+Then User see the resulst...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This is to test cucmber" name="Cucumber testing" time="0.000567">
+<system-out><![CDATA[Given thisi is back test....................................................passed
+Given users is on google.com................................................passed
+When usesr enters serach term...............................................passed
+And Users hits enter........................................................passed
+Then User see the resulst...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
