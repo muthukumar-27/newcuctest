@@ -21,7 +21,7 @@ public class openstep {
 	@Then("^User should get the result (\\d+\\.\\d+)$")
 	public void user_should_get_the_result(int arg1) throws Throwable {
 	
-		System.out.println("arguments value"+arg1);
+		System.out.println("argumen1ts value"+arg1);
 	}
 
 
